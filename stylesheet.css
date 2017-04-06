@@ -34,15 +34,6 @@ body {
   margin-bottom: 15px;
 }
 
-#canada {
-  color: #4285f4;
-  font: 16px/16px roboto-regular, arial, sans-serif;
-  left: 215px;
-position: relative;
-white-space: nowrap;
-background-color: red;
-}
-
 #googlefrench {
   font-size: small;
   text-align: center;
